@@ -1,0 +1,8 @@
+注释所选内容：Ctrl+shift +/
+新建文件：Alt+shift +N
+重命名：Alt+shift +R
+自动生成setter和getter函数：Alt+shift+S +R
+自动生成toString()函数：Alt+shift+S +s
+自动生成无参构造器：Alt+shift+S +c
+自动生成有参构造器：Alt+shift+S +o
+自动导包：Ctrl+Shift+O
