@@ -1,0 +1,1 @@
+-Dgenuitec.honorDevMode=true -Dosgi.dev=true ½â¾öexit code = -1

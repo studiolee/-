@@ -1,0 +1,3 @@
+restraint
+collapse
+exert
